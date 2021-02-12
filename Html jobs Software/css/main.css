@@ -1,0 +1,53 @@
+body {
+    margin: 0 auto;
+    max-width: 50em;
+    line-height: 1.5;
+    padding: 4em 1em;
+    color: black;
+}
+
+h2 {
+    color:#6495ed;
+    margin-top: 1em;
+    padding-top: 1em;
+}
+h3 {
+    color:red;
+
+}
+h4 {
+    color:black;
+    
+}
+
+
+h1, strong {
+  color: black;
+}
+
+
+header {
+    background-color: aqua;
+    background-image: url("header.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 1.2;
+    padding: 10vw 2em;
+    text-align: center;
+  }
+
+  header img {
+    display: inline-block;
+    height: 120px;
+    vertical-align: top;
+    width: 120px;
+  }
+
+  header h1 {
+    color: white;
+    font-size: 2.5em;
+    font-weight: 300;
+  }
+
+ 
